@@ -6,4 +6,7 @@ x = c(1, 3, 5, 7) # get a vector
 mean(x)     # mean function
 log(x)      # log function
 
-print("V2")
+print("V3")
+print("V3")
+print("V3")
+print("V3")
